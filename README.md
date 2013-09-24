@@ -3,3 +3,5 @@ These library support QRcode model2 version1-40,and some functions
 are NOT supported. (eg. mode change, KANJI mode etc.)
 
 based on http://www.swetake.com/qrcode/
+
+Licence : MPL or LGPL with exception
